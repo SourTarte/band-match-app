@@ -11,10 +11,10 @@ assignees: ''
 
 DescriptionText
 
-## User Expectations
+## Acceptance Criteria
+
+- [ ] Criteria1
+
+## Tasks
 
 - [ ] Task1
-
-## Fulfilment Requirements
-
-- [ ] Requirement1
